@@ -1,4 +1,4 @@
-# msaas v0.0.1
+# msaas
 
 > A Vue.js project
 
