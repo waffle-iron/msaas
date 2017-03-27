@@ -1,7 +1,7 @@
 <template>
   <header>
       <!-- Sidebar navigation -->
-      <sidebar-compoenent></sidebar-compoenent>
+      <sidebar-component></sidebar-component>
       <!--/. Sidebar navigation -->
 
       <!--Navbar-->
