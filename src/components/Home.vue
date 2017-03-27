@@ -39,7 +39,7 @@ export default {
           type: 'text',
         },
         {
-          tipo: 'texArea',
+          tipo: 'textArea',
           label: 'Descrição',
           row: 4,
         },
